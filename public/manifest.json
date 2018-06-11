@@ -1,0 +1,20 @@
+{
+  "name": "Porus",
+  "short_name": "Porus",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "/images/logo.png",
+      "type": "image/png",
+      "sizes": "1200x1200"
+    }
+  ],
+  "description": "Porus",
+  "prefer_related_applications": false,
+  "theme_color": "#fff",
+  "scope": "/",
+  "orientation": "portrait-primary"
+}
